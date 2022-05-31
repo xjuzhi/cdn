@@ -1,0 +1,23 @@
+/* <!-- 自定义样式 --> */
+              <style>
+                .cbp_tmtimeline>li:nth-child(odd) .cbp_tmlabel {
+                  background: url("https://api.abcyun.co/api/others/randacgimage/token/5d8f31cf6a8ab") 0% 0% / cover;
+                  color: black;
+                }
+                .cbp_tmtimeline>li .cbp_tmlabel {
+                  background: url("https://api.abcyun.co/api/others/randacgimage/token/5d8f31cf6a8ab") 0% 0% / cover;
+                  color: black;
+                }
+                .cbp_tmtimeline>li:nth-child(odd) .cbp_tmlabel:after {
+                  border-right-color:  #6dd0f2
+                }
+                .cbp_tmtimeline>li .cbp_tmlabel:after {
+                  border-right-color:  #f59abe
+                }
+                .button {
+                  background: url("https://api.abcyun.co/api/others/randacgimage/token/5d8f31cf6a8ab") 0% 0% / cover;
+                  color: black;
+                }
+              </style>
+
+              /* <!-- 自定义样式.end --> */
